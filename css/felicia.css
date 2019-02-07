@@ -2158,6 +2158,9 @@ main.fl-home-main{
 .fl-avaliacao-sugestao{
 	display: none;
 }
-.fl-avaliacao-sugestao .form-control:focus{
+.form-control:focus{
 	border-color: #fd7f6f;
+}
+textarea.form-control{
+	height: 120px;
 }

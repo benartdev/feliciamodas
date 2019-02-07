@@ -338,5 +338,12 @@ jQuery(function($){
 	    }
 
 	    $(document).on('scroll', onScroll);
+
+	    // Conta caracteres
+	    $('[name="avai_text"]').on('keyup', function(){
+	    	var $length = $(this).val().length;
+	    	console.log($length);
+	    	$('#fl-char-count').html($length);
+	    });
 	});
 })
