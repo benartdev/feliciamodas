@@ -1,0 +1,247 @@
+
+05/02/2019 15:31:51 PagSeguro.Session[info]: Begin
+05/02/2019 15:31:53 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=financeiro%40ceten.com.br&token=00FBEE8AC135450A946FBCC3CB07D607
+05/02/2019 15:31:54 PagSeguro.Session[info]: Session ID: 049394d224524c2c9afdcc7f1c438d27
+05/02/2019 15:37:07 PagSeguro.Session[info]: Begin
+05/02/2019 15:37:07 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:37:09 PagSeguro.Session[info]: Session ID: 8df113d23ee74a90aca8390c2be85080
+05/02/2019 15:42:14 PagSeguro.Session[info]: Begin
+05/02/2019 15:42:15 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:42:15 PagSeguro.Session[info]: Session ID: d0bf27c5265a49eb9bafbf8a2c5f8425
+05/02/2019 15:42:39 PagSeguro.Session[info]: Begin
+05/02/2019 15:42:39 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:42:40 PagSeguro.Session[info]: Session ID: 5e1182eda24d4847967bde57bdeac531
+05/02/2019 15:45:50 PagSeguro.Session[info]: Begin
+05/02/2019 15:45:50 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:45:51 PagSeguro.Session[info]: Session ID: 864fa8cde5fb4450851f538bef5d587d
+05/02/2019 15:47:08 PagSeguro.Session[info]: Begin
+05/02/2019 15:47:08 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:47:08 PagSeguro.Session[info]: Session ID: 47a198a662e140caa00bc7aead78ef44
+05/02/2019 15:47:32 PagSeguro.Session[info]: Begin
+05/02/2019 15:47:32 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:47:35 PagSeguro.Session[info]: Session ID: 14df495d5e0044d5b77a52fca6fcd15a
+05/02/2019 15:48:18 PagSeguro.Session[info]: Begin
+05/02/2019 15:48:18 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:48:20 PagSeguro.Session[info]: Session ID: 111b2eaa89c847eabbcf8fd48b94f360
+05/02/2019 15:50:53 PagSeguro.Session[info]: Begin
+05/02/2019 15:50:53 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:50:54 PagSeguro.Session[info]: Session ID: 56c57d14f55941d88f726911be2014f7
+05/02/2019 15:51:19 PagSeguro.Session[info]: Begin
+05/02/2019 15:51:19 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:51:19 PagSeguro.Session[info]: Session ID: 81bd877773ad48dfacfb67e77ed2105b
+05/02/2019 15:51:39 PagSeguro.Session[info]: Begin
+05/02/2019 15:51:39 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:51:40 PagSeguro.Session[info]: Session ID: 39a397a29fe4489f89be515edd7d2d94
+05/02/2019 15:53:26 PagSeguro.Session[info]: Begin
+05/02/2019 15:53:26 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:53:27 PagSeguro.Session[info]: Session ID: 07c738f369d34c8286b8257cbcb57c41
+05/02/2019 15:53:52 PagSeguro.Session[info]: Begin
+05/02/2019 15:53:53 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:53:53 PagSeguro.Session[info]: Session ID: 3a7d118624994c0ca166f468969287d0
+05/02/2019 15:54:30 PagSeguro.Session[info]: Begin
+05/02/2019 15:54:31 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:54:31 PagSeguro.Session[info]: Session ID: 329b5c00394845b4be7dc9e086cfc99e
+05/02/2019 15:55:19 PagSeguro.Session[info]: Begin
+05/02/2019 15:55:19 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:55:19 PagSeguro.Session[info]: Session ID: dd7df8a4bca94ddf97205364bf019d5c
+05/02/2019 15:56:13 PagSeguro.Session[info]: Begin
+05/02/2019 15:56:13 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:56:14 PagSeguro.Session[info]: Session ID: 4f2d9623beea46389f4c625a983bd3c4
+05/02/2019 15:58:13 PagSeguro.Session[info]: Begin
+05/02/2019 15:58:13 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:58:14 PagSeguro.Session[info]: Session ID: 47b115926cde4dd8988e9777ded0b5f0
+05/02/2019 15:58:32 PagSeguro.Session[info]: Begin
+05/02/2019 15:58:33 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:58:34 PagSeguro.Session[info]: Session ID: ae3dafbe59424a638aac27db04ec6e23
+05/02/2019 15:58:40 PagSeguro.Session[info]: Begin
+05/02/2019 15:58:40 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:58:40 PagSeguro.Session[info]: Session ID: 8ad131d703e9484e9fc505de0858cc24
+05/02/2019 15:59:05 PagSeguro.Session[info]: Begin
+05/02/2019 15:59:05 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:59:06 PagSeguro.Session[info]: Session ID: ea574be7db9c4d7f89da89041cacb900
+05/02/2019 15:59:48 PagSeguro.Session[info]: Begin
+05/02/2019 15:59:48 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 15:59:48 PagSeguro.Session[info]: Session ID: 74114826f7944473b4a309a09a9d59c2
+05/02/2019 16:00:03 PagSeguro.Session[info]: Begin
+05/02/2019 16:00:03 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:00:04 PagSeguro.Session[info]: Session ID: 488dfccd84dd4e899bc02c7b0fad5ec4
+05/02/2019 16:01:34 PagSeguro.Session[info]: Begin
+05/02/2019 16:01:34 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:01:35 PagSeguro.Session[info]: Session ID: c9f32fd0d23944209127c4d9d5d5ecb6
+05/02/2019 16:01:45 PagSeguro.Session[info]: Begin
+05/02/2019 16:01:45 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:01:46 PagSeguro.Session[info]: Session ID: 92034ed224194922aadedf4e0c888d12
+05/02/2019 16:01:58 PagSeguro.Session[info]: Begin
+05/02/2019 16:01:58 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:01:58 PagSeguro.Session[info]: Session ID: 3b9517298d974b629f382bc6bc13c0e8
+05/02/2019 16:02:35 PagSeguro.Session[info]: Begin
+05/02/2019 16:02:35 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:02:35 PagSeguro.Session[info]: Session ID: 33f193ef0a544bafb1ddcbeb75a5f5d7
+05/02/2019 16:13:43 PagSeguro.Session[info]: Begin
+05/02/2019 16:13:44 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:13:44 PagSeguro.Session[info]: Session ID: 2c8fd296497c4cb2982df82eab10f001
+05/02/2019 16:15:49 PagSeguro.Session[info]: Begin
+05/02/2019 16:15:49 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:15:50 PagSeguro.Session[info]: Session ID: ca3d1b64e9154f0ea7decd15be5b563d
+05/02/2019 16:16:26 PagSeguro.Session[info]: Begin
+05/02/2019 16:16:26 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:16:26 PagSeguro.Session[info]: Session ID: 56cb68acb6ea4fc9802d9b8f6a0fc372
+05/02/2019 16:18:52 PagSeguro.Session[info]: Begin
+05/02/2019 16:18:52 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:18:52 PagSeguro.Session[info]: Session ID: 4d5106ea6b99437da3c6ba5e54ec52f8
+05/02/2019 16:19:07 PagSeguro.Session[info]: Begin
+05/02/2019 16:19:07 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:19:07 PagSeguro.Session[info]: Session ID: 881f6c0455964f45a120362669bf1271
+05/02/2019 16:19:37 PagSeguro.Session[info]: Begin
+05/02/2019 16:19:37 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:19:38 PagSeguro.Session[info]: Session ID: a61f7fa9c62f46b0ad6a9390a0f4ff4f
+05/02/2019 16:23:28 PagSeguro.Session[info]: Begin
+05/02/2019 16:23:28 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:23:28 PagSeguro.Session[info]: Session ID: ef5f8a6009c04619a895570d2b00b793
+05/02/2019 16:24:15 PagSeguro.Session[info]: Begin
+05/02/2019 16:24:16 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:24:18 PagSeguro.Session[info]: Session ID: 8d8146773cb448c79a84db21d83a5833
+05/02/2019 16:25:30 PagSeguro.Session[info]: Begin
+05/02/2019 16:25:30 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:25:31 PagSeguro.Session[info]: Session ID: 97a30999f3c64c6a8c0f8bcbfba11481
+05/02/2019 16:25:51 PagSeguro.Session[info]: Begin
+05/02/2019 16:25:51 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:25:52 PagSeguro.Session[info]: Session ID: 4527e65c156149879ae50bc08167113c
+05/02/2019 16:26:11 PagSeguro.Session[info]: Begin
+05/02/2019 16:26:11 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:26:11 PagSeguro.Session[info]: Session ID: cf1b4a67b6a44121ae5ad568d98cd841
+05/02/2019 16:29:54 PagSeguro.Session[info]: Begin
+05/02/2019 16:29:54 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:29:55 PagSeguro.Session[info]: Session ID: 7fe5084ca5964cf5a3da46b150c88b15
+05/02/2019 16:30:09 PagSeguro.Session[info]: Begin
+05/02/2019 16:30:09 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:30:10 PagSeguro.Session[info]: Session ID: 1f1b102f48114860bb6783302b815128
+05/02/2019 16:35:59 PagSeguro.Session[info]: Begin
+05/02/2019 16:35:59 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:35:59 PagSeguro.Session[info]: Session ID: 38855aa5941643b794cd7b07b21ddaff
+05/02/2019 16:36:58 PagSeguro.Session[info]: Begin
+05/02/2019 16:36:58 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:36:59 PagSeguro.Session[info]: Session ID: 49db1e0083a444099a8de6dec1499214
+05/02/2019 16:39:59 PagSeguro.Session[info]: Begin
+05/02/2019 16:39:59 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:39:59 PagSeguro.Session[info]: Session ID: 834b5a1fdd8543539b9f3c124780e2f9
+05/02/2019 16:40:53 PagSeguro.Session[info]: Begin
+05/02/2019 16:40:53 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:40:54 PagSeguro.Session[info]: Session ID: ef73448400384a81b45de424da55c152
+05/02/2019 16:43:11 PagSeguro.Session[info]: Begin
+05/02/2019 16:43:11 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:43:11 PagSeguro.Session[info]: Session ID: b443ca67a5974a98aa423ce3468a82b8
+05/02/2019 16:49:11 PagSeguro.Session[info]: Begin
+05/02/2019 16:49:11 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 16:49:12 PagSeguro.Session[info]: Session ID: bfb56439c4214b0393c8799b31f8d9e1
+05/02/2019 17:16:22 PagSeguro.Session[info]: Begin
+05/02/2019 17:16:23 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 17:16:24 PagSeguro.Session[info]: Session ID: fca76ba325904534b018e8b1c4cc05a7
+05/02/2019 17:23:48 PagSeguro.Session[info]: Begin
+05/02/2019 17:23:49 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 17:23:49 PagSeguro.Session[info]: Session ID: 6071e57c52254442a4d4961090ef9760
+05/02/2019 17:34:28 PagSeguro.Session[info]: Begin
+05/02/2019 17:34:29 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 17:34:30 PagSeguro.Session[info]: Session ID: d2a74197378440d19a8e8e37aea9ac1a
+05/02/2019 18:19:11 PagSeguro.Session[info]: Begin
+05/02/2019 18:19:12 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 18:19:13 PagSeguro.Session[info]: Session ID: 7c2b2b8bce4b46ed977bd3cc7b18817a
+05/02/2019 18:20:36 PagSeguro.Session[info]: Begin
+05/02/2019 18:20:36 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 18:20:37 PagSeguro.Session[info]: Session ID: 87057874ffb645a0ae29bb4206f2c920
+05/02/2019 18:21:22 PagSeguro.Session[info]: Begin
+05/02/2019 18:21:23 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 18:21:23 PagSeguro.Session[info]: Session ID: 92b37d3ed6e64c66aec538e501c734b8
+05/02/2019 18:22:31 PagSeguro.Session[info]: Begin
+05/02/2019 18:22:31 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 18:22:32 PagSeguro.Session[info]: Session ID: 492d066f568d4e86a1e12ac366d634e3
+05/02/2019 18:26:39 PagSeguro.Session[info]: Begin
+05/02/2019 18:26:39 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 18:26:40 PagSeguro.Session[info]: Session ID: 3cdd92d0d1ba4a119b8046464c94cd5e
+05/02/2019 18:27:34 PagSeguro.Session[info]: Begin
+05/02/2019 18:27:34 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 18:27:36 PagSeguro.Session[info]: Session ID: 43d107d52e2d4718ba134db1eb7e18a8
+05/02/2019 18:28:14 PagSeguro.Session[info]: Begin
+05/02/2019 18:28:14 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 18:28:19 PagSeguro.Session[info]: Session ID: 9e21249976d64ddaa957611bced40acc
+05/02/2019 18:28:47 PagSeguro.Session[info]: Begin
+05/02/2019 18:28:47 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 18:28:48 PagSeguro.Session[info]: Session ID: bf3b1a7c6f4c47c4912a8f32673debf4
+05/02/2019 19:48:51 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 19:48:52 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 19:48:53 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":" ","senderAreaCode":"","senderPhone":false,"senderCPF":false,"senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressComplement":""}
+05/02/2019 19:48:54 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53118</code><message>sender cpf or sender cnpj is required.</message></error><error><code>53010</code><message>sender email is required.</message></error><error><code>53013</code><message>sender name is required.</message></error><error><code>53021</code><message>sender phone invalid value: 0</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53035</code><message>shipping address country is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error></errors>
+05/02/2019 19:50:49 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 19:50:49 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 19:50:49 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":" ","senderAreaCode":"","senderPhone":false,"senderCPF":false,"senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressComplement":""}
+05/02/2019 19:50:50 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53118</code><message>sender cpf or sender cnpj is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53010</code><message>sender email is required.</message></error><error><code>53013</code><message>sender name is required.</message></error><error><code>53021</code><message>sender phone invalid value: 0</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53035</code><message>shipping address country is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error></errors>
+05/02/2019 19:52:37 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 19:52:38 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 19:52:38 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":" ","senderAreaCode":"","senderPhone":false,"senderCPF":false,"senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressComplement":""}
+05/02/2019 19:52:38 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53118</code><message>sender cpf or sender cnpj is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53010</code><message>sender email is required.</message></error><error><code>53013</code><message>sender name is required.</message></error><error><code>53021</code><message>sender phone invalid value: 0</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error><error><code>53035</code><message>shipping address country is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error></errors>
+05/02/2019 19:52:47 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 19:52:48 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 19:52:48 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":" ","senderAreaCode":"","senderPhone":false,"senderCPF":false,"senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressComplement":""}
+05/02/2019 19:52:48 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53118</code><message>sender cpf or sender cnpj is required.</message></error><error><code>53010</code><message>sender email is required.</message></error><error><code>53013</code><message>sender name is required.</message></error><error><code>53021</code><message>sender phone invalid value: 0</message></error><error><code>53035</code><message>shipping address country is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error></errors>
+05/02/2019 19:53:28 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 19:53:28 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 19:53:28 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":" ","senderAreaCode":"","senderPhone":false,"senderCPF":false,"senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressComplement":""}
+05/02/2019 19:53:29 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53118</code><message>sender cpf or sender cnpj is required.</message></error><error><code>53018</code><message>sender area code is required.</message></error><error><code>53010</code><message>sender email is required.</message></error><error><code>53013</code><message>sender name is required.</message></error><error><code>53021</code><message>sender phone invalid value: 0</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error><error><code>53035</code><message>shipping address country is required.</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error></errors>
+05/02/2019 19:59:08 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 19:59:09 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 19:59:10 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardos Vidal","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressComplement":""}
+05/02/2019 19:59:10 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53010</code><message>sender email is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53035</code><message>shipping address country is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error></errors>
+05/02/2019 20:00:34 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 20:00:34 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:00:34 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardos Vidal","senderEmail":"ricardo@benart.com.br","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressComplement":""}
+05/02/2019 20:00:34 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53033</code><message>shipping address state is required.</message></error><error><code>53035</code><message>shipping address country is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error></errors>
+05/02/2019 20:07:49 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 20:07:49 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:07:50 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardos Vidal","senderEmail":"ricardo@benart.com.br","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressComplement":""}
+05/02/2019 20:07:50 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error><error><code>53035</code><message>shipping address country is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error></errors>
+05/02/2019 20:08:51 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 20:08:51 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:08:52 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardos Vidal","senderEmail":"ricardo@benart.com.br","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressComplement":""}
+05/02/2019 20:08:52 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error><error><code>53035</code><message>shipping address country is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error></errors>
+05/02/2019 20:09:06 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 20:09:06 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:09:06 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardos Vidal","senderEmail":"ricardo@benart.com.br","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressComplement":""}
+05/02/2019 20:09:06 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error><error><code>53024</code><message>shipping address street is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error><error><code>53035</code><message>shipping address country is required.</message></error></errors>
+05/02/2019 20:10:36 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 20:10:36 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:10:36 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardos Vidal","senderEmail":"ricardo@benart.com.br","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressStreet":"Rua Cidade de Anti\u00f3quia","shippingAddressComplement":""}
+05/02/2019 20:10:37 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error><error><code>53035</code><message>shipping address country is required.</message></error><error><code>53033</code><message>shipping address state is required.</message></error><error><code>53022</code><message>shipping address postal code is required.</message></error><error><code>53029</code><message>shipping address district is required.</message></error><error><code>53031</code><message>shipping address city is required.</message></error><error><code>53026</code><message>shipping address number is required.</message></error></errors>
+05/02/2019 20:11:26 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 20:11:26 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:11:26 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardos Vidal","senderEmail":"ricardo@benart.com.br","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressStreet":"Rua Cidade de Anti\u00f3quia","shippingAddressNumber":"15","shippingAddressComplement":"","shippingAddressCity":"Santos","shippingAddressState":"SP","shippingAddressDistrict":"Estu\u00e1rio","shippingAddressPostalCode":"11020-060","shippingAddressCountry":"Brasil"}
+05/02/2019 20:11:26 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error></errors>
+05/02/2019 20:11:36 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 20:11:36 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:11:36 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardos Vidal","senderEmail":"ricardo@benart.com.br","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"221e58f30174f2e9f3e8ecca7c38cd81044456cfdf9700d04687f414d605a99b","shippingAddressStreet":"Rua Cidade de Anti\u00f3quia","shippingAddressNumber":"15","shippingAddressComplement":"","shippingAddressCity":"Santos","shippingAddressState":"SP","shippingAddressDistrict":"Estu\u00e1rio","shippingAddressPostalCode":"11020-060","shippingAddressCountry":"Brasil"}
+05/02/2019 20:11:36 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error></errors>
+05/02/2019 20:15:37 PagSeguro.Session[info]: Begin
+05/02/2019 20:15:37 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:15:38 PagSeguro.Session[error]: Unauthorized
+05/02/2019 20:15:52 PagSeguro.Session[info]: Begin
+05/02/2019 20:15:52 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:15:53 PagSeguro.Session[info]: Session ID: e353f418e9c94d168f28ba40bc2b8c8b
+05/02/2019 20:16:07 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 20:16:07 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:16:07 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardos Vidal","senderEmail":"ricardo@benart.com.br","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"9891a68a62b5d1c615f2213e3f5ff18c5c632316a8aa6dfaa31f779dea8c4c59","shippingAddressStreet":"Rua Cidade de Anti\u00f3quia","shippingAddressNumber":"15","shippingAddressComplement":"","shippingAddressCity":"Santos","shippingAddressState":"SP","shippingAddressDistrict":"Estu\u00e1rio","shippingAddressPostalCode":"11020-060","shippingAddressCountry":"Brasil"}
+05/02/2019 20:16:08 PagSeguro.Session[error]: Unauthorized
+05/02/2019 20:16:53 PagSeguro.DirectPayment.Boleto[info]: Begin
+05/02/2019 20:16:53 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+05/02/2019 20:16:53 PagSeguro.Checkout[info]: Params: {"reference":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"006","itemDescription1":"COD_840453bdb940d77f2d9fec8cfa785a9811be1c12","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardos Vidal","senderEmail":"ricardo@benart.com.br","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"9891a68a62b5d1c615f2213e3f5ff18c5c632316a8aa6dfaa31f779dea8c4c59","shippingAddressStreet":"Rua Cidade de Anti\u00f3quia","shippingAddressNumber":"15","shippingAddressComplement":"","shippingAddressCity":"Santos","shippingAddressState":"SP","shippingAddressDistrict":"Estu\u00e1rio","shippingAddressPostalCode":"11020-060","shippingAddressCountry":"Brasil"}
+05/02/2019 20:16:53 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error></errors>
+06/02/2019 23:30:12 PagSeguro.Session[info]: Begin
+06/02/2019 23:30:14 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+06/02/2019 23:30:17 PagSeguro.Session[info]: Session ID: 69214dc470314caaa1184c2fbc9155a4
+06/02/2019 23:31:03 PagSeguro.Session[info]: Begin
+06/02/2019 23:31:03 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+06/02/2019 23:31:06 PagSeguro.Session[info]: Session ID: 8acdf64712c145bdb7bc6c9429e5cc4e
+06/02/2019 23:31:36 PagSeguro.DirectPayment.Boleto[info]: Begin
+06/02/2019 23:31:36 PagSeguro.DirectPayment.Boleto[info]: POST: https://ws.pagseguro.uol.com.br/v2/transactions/?email=contato.benart%40gmail.com&token=BAE4395BED9E459E942CA264A8A5BDA0
+06/02/2019 23:31:37 PagSeguro.Checkout[info]: Params: {"reference":"COD_e43ada7d4baf377aa02b1659022587fd8d0c942a","notificationURL":"http:\/\/127.0.0.1\/felicia\/site\/order\/retornopag","currency":"BRL","itemId1":"010","itemDescription1":"COD_e43ada7d4baf377aa02b1659022587fd8d0c942a","itemQuantity1":"1","itemAmount1":"150.00","paymentMethod":"boleto","paymentMode":"DEFAULT","receiverEmail":"contato.benart@gmail.com","senderName":"Ricardo Vidal","senderEmail":"ricardo@benart.com.br","senderAreaCode":"13","senderPhone":"(**) 9914-****","senderCPF":"383.***.***-**","senderHash":"9933bb714cc1faf1fc636306344e3a320bc9b6fb1b656ddaef761f97a2238cb4","shippingAddressStreet":"Rua Cidade de Anti\u00f3quia","shippingAddressNumber":"15","shippingAddressComplement":"","shippingAddressCity":"Santos","shippingAddressState":"SP","shippingAddressDistrict":"Estu\u00e1rio","shippingAddressPostalCode":"11020-060","shippingAddressCountry":"Brasil"}
+06/02/2019 23:31:40 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error></errors>
+07/02/2019 13:35:34 PagSeguro.Transactions.Notification[info]: Begin
+07/02/2019 13:35:36 PagSeguro.Transactions.Notification[error]: Invalid notification parameters.
