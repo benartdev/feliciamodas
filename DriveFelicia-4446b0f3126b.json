@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "drivefelicia",
+  "private_key_id": "4446b0f3126b76421472f703f7d20dd37f660f8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC3gGcR0q5dYGPI\nxyzOdgFQvm63Esrgx7+ukOObClC6Vix4uUSy+HXYLNc6n+dWkTCy6UOPmV01QLvX\nRRyeZ3nQXotZkXknd0WLKg0BfmFnWE7DVHSn94ZXRNHag9IhOeHTul6zyRlQGytj\nqF8IH401Z0yA/IRfJ+Zxf4N3V+giezhxXtVJ0UvNK81WaKLEW3xOzIo3lDb+AuCj\n2FpHiWCq6j/Sv10+3WhuNVcVYxQ7g+d9S0Ap+I2vro8HacwvCcgAa0Kzx/x8Vg63\ns09Dum3iwFxvTcmF39w4iM9FqrAYMw9DUkidJFMpjScQ5XL/FDHnfmg3zJT8cbxJ\nIQMQMLOdAgMBAAECggEAHE6Wt8FiC/4BTpjpEM1T3R6PSjcALGYr69QmhEV2WBRQ\nhmwADMK2vRsHtZ+yqmA53LOOrEF6hys9/tKGvGnWeP4IrY+7Gosz42igen1CLdTJ\ny6iE2V9d7irr23NP0DfTXhvHHaFVQg365sPzqvdhC16sxs4NZndrfVEwGNIq+Vx4\n19w7DlcvmuCiazoo1h5n4SS13iKxidWVN99wq5odoIUJX2Sh+Mj4cNzG+dBijKhI\nv7WrTz98nTNxVrtBv2FdtWabr3jcY68Ss2fs1K92kVCWzrjkrsh6DXhZiL9dwEL7\n3Wu4lscRWAXYSJmbeew7jFgRxEXNZxmrYIigUP0USQKBgQD2bVJj9HoPlP+Ntqdq\nEd/IfrH/z5jlO1qLJ4Bq2JHroy0dOWxOY1VAe1aWSH5aP5vKJib+KAo8VQv4Azyv\nGrSS5xw3lQzdyqkcZQOvMCWJ7JZaklJPsUG2e6xlHSkOOyZ0GbvunKNIBApMtR4Y\n1g8TxuhMv8YenTeatiKZoeFlRQKBgQC+oUwCdXMKTte8IUM61HJYjqMw5x9UTfbG\nK45Bo/vdHP4YajZqdLnDO/0MfFwuOvaBmnZlWLvfk79mLAMEIjm30UDI8FB6u30k\nMgRxJUFb8Xm8s2EfBWPxQlE01XI0b+lSqVDrDAPsjH9lIzsd1GAoXJ8+6t2RsM6D\nSXiVAd7eeQKBgQCC71dlsNLiUKLwo2qU22ZyW48sgxuUQVM8uQJswyHVeGBSNN6t\nT+5OUrqRI3evcDjQ0jDJvnCh2faAEwg9ag0kORQvHE0306TDZ5DrlsN7Y3AIM9L0\ncRSfZ1sUZsgXvaoS6lGG2UeQzkTCuUGCpMpiEcAAd61HOvX+iGQeCXt/mQKBgQCD\n4F4PDWVqaiTA11oFJtd8ACFRQXLhBZaEfblKG8Gvs9Ds3v2KI/om4CctLhMvQEcs\nXckuT3aZM0Mj0aq8f1jim3ZwDCAA6BeopJmCFL3kd2c6bfXwWfBMBQ7cuBTrxcfq\nEYwTLxq/2GqBcyAAgN2Mzpa0FhL2KRSUqo0quEKQMQKBgQDm5G7XkxmtKyEqJg+e\nXdN12ZpLSAZIbzi5cthy774xYy59lL1l6DOuejWz2mqBJQDXqPehFbGEVhN+I+ZI\nTdouAJzH508gKQffDSGb4FFhw0uRIkC4+34mltQr3wJmu2VEEA++FCugzaQ1dIK4\nz5vF8c1wb7Ow1YE/QYmvdbDiAw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "benartservice@drivefelicia.iam.gserviceaccount.com",
+  "client_id": "111891518358052274261",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/benartservice%40drivefelicia.iam.gserviceaccount.com"
+}

@@ -14,7 +14,11 @@
 		"php": ">=5.3.7",
 		"phpmailer/phpmailer": "^6.0",
 		"pagseguro/pagseguro-php-sdk": "^4.2",
-		"facebook/graph-sdk": "^5.6"
+		"facebook/graph-sdk": "^5.6",
+		"google/apiclient": "^2.0",
+		"alorel/dropbox-v2-php": "^0.4.2",
+		"dropbox/dropbox-sdk": "1.1.*",
+		"kunalvarma05/dropbox-php-sdk": "^0.2.1"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"

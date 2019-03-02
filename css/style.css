@@ -8589,3 +8589,18 @@ body.onprogress:after {
 #fl-tab-dest{
   margin-bottom: 20px;
 }
+.fl-pedido-detalhe-info{
+  margin-bottom: 20px;
+}
+#fl-stars{
+  padding-left: 0;
+  list-style: none;
+}
+#fl-stars li{
+  display: inline-block;
+}
+#fl-avaliacao-text{
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+}

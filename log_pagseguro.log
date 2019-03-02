@@ -245,3 +245,30 @@
 06/02/2019 23:31:40 PagSeguro.Session[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>53009</code><message>notificationURL invalid value: http://127.0.0.1/felicia/site/order/retornopag</message></error></errors>
 07/02/2019 13:35:34 PagSeguro.Transactions.Notification[info]: Begin
 07/02/2019 13:35:36 PagSeguro.Transactions.Notification[error]: Invalid notification parameters.
+14/02/2019 00:51:13 PagSeguro.Session[info]: Begin
+14/02/2019 00:51:14 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=barceluciana%40gmail.com&token=90E57B9EEEF34E11BE1A30093ADDE31B
+14/02/2019 00:51:16 PagSeguro.Session[info]: Session ID: a32d8e47169b469bb6166c0acb6fa36e
+14/02/2019 00:52:43 PagSeguro.Session[info]: Begin
+14/02/2019 00:52:44 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=barceluciana%40gmail.com&token=90E57B9EEEF34E11BE1A30093ADDE31B
+14/02/2019 00:52:44 PagSeguro.Session[info]: Session ID: 929bec1c0a314216ac58d13fcb02e90d
+14/02/2019 00:53:38 PagSeguro.Session[info]: Begin
+14/02/2019 00:53:38 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=barceluciana%40gmail.com&token=90E57B9EEEF34E11BE1A30093ADDE31B
+14/02/2019 00:53:38 PagSeguro.Session[info]: Session ID: ea433b85e9974ecea53b27b4453bb8c0
+14/02/2019 00:55:06 PagSeguro.Session[info]: Begin
+14/02/2019 00:55:06 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=barceluciana%40gmail.com&token=90E57B9EEEF34E11BE1A30093ADDE31B
+14/02/2019 00:55:07 PagSeguro.Session[info]: Session ID: 68814e61c63344feb587d13b0266bad4
+14/02/2019 00:57:35 PagSeguro.Session[info]: Begin
+14/02/2019 00:57:35 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=barceluciana%40gmail.com&token=90E57B9EEEF34E11BE1A30093ADDE31B
+14/02/2019 00:57:35 PagSeguro.Session[info]: Session ID: 96cb893bc57e4bfc9dc18aeb2acc1fbd
+14/02/2019 00:59:07 PagSeguro.Session[info]: Begin
+14/02/2019 00:59:07 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=barceluciana%40gmail.com&token=90E57B9EEEF34E11BE1A30093ADDE31B
+14/02/2019 00:59:08 PagSeguro.Session[info]: Session ID: e26f3237ffd246968efc5cd78057c7e4
+14/02/2019 01:00:16 PagSeguro.Session[info]: Begin
+14/02/2019 01:00:16 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=barceluciana%40gmail.com&token=90E57B9EEEF34E11BE1A30093ADDE31B
+14/02/2019 01:00:19 PagSeguro.Session[info]: Session ID: 216f2c7873954293a3ef9fa00b997660
+14/02/2019 01:01:32 PagSeguro.Session[info]: Begin
+14/02/2019 01:01:32 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=barceluciana%40gmail.com&token=90E57B9EEEF34E11BE1A30093ADDE31B
+14/02/2019 01:01:32 PagSeguro.Session[info]: Session ID: 05e1e566f090429099eeb5258d75274f
+16/02/2019 15:47:05 PagSeguro.Session[info]: Begin
+16/02/2019 15:47:07 PagSeguro.Session[info]: POST: https://ws.pagseguro.uol.com.br/v2/sessions?email=barceluciana%40gmail.com&token=90E57B9EEEF34E11BE1A30093ADDE31B
+16/02/2019 15:47:10 PagSeguro.Session[info]: Session ID: 3827118a981d47bbb282fc01cddb849e

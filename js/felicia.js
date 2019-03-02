@@ -179,13 +179,24 @@ jQuery(function($){
 							$cart = $cart - 1;
 							$('#cart-qtd').html($cart);
 
+							var $valor = new Intl.NumberFormat('pt-BR', {
+								style: 'currency',
+								currency: 'BRL',
+								minimumFractionDigits: 2
+							});
+
+							var $vF = $valor.format($novo);
+								
+
 							if ( json.redirect ){
 								$line.remove();
 								$('#fl-cart-subtotal').hide();
 								$('#fl-cart-redirect').hide();
 								$('#fl-cart-products').html('<p class="text-center">O carrinho está vazio</p>');
+								$('[name="pedido_id"]').val('');
 							} else {
-								$('#fl-cart-subtotal').find('h4').find('span').html($novo);
+								$('#fl-cart-subtotal').find('h4').find('span').html($vF);
+								$('input[name="subtotal"]').val($novo);
 								$line.remove();
 							}
 						},
@@ -237,9 +248,13 @@ jQuery(function($){
 	    $('[name="fl-endereco"]').on('change', function(){
 	    	var $end = $(this).val();
 	    	var $val = $(this).parent().find('[name="endereco_user_frete"]').val();
+	    	var $qtde = $(this).parent().find('[name="qtde"]').val();
+	    	var $valor = $(this).parent().find('[name="valor"]').val();
 	    	console.log($(this).parent().find('[name="endereco_final-url"]').val());
 	    	var obj = new Object();
 	    		obj.user_cepf = $val;
+	    		obj.qtde = $qtde;
+	    		obj.valor = $valor;
 	    	$(this).ajaxSubmit({
 				dataType : "json",
 				type : 'post',
@@ -261,8 +276,11 @@ jQuery(function($){
 					var $fab = parseInt($('[name="fab"]').val());
 					$.each(json, function(i,v){
 						var $prazo = $fab + parseInt(json[i].prazo[0]);
-						$('#fl-third-done .fl-final-block-info').append('<div class="fl-checkout-frete-forma"><input type="hidden" name="forma_pedido_valorfrete" value="'+ json[i].valor[0].replace(',','.') +'"><input type="hidden" name="forma_pedido_tempo_frete" value="'+$prazo+'"><input id="forma'+i+'" type="radio" value="'+json[i].codigo[0]+'" name="fl-frete-modo"> <label for="forma'+i+'">'+json[i].codigo[0]+'<p>Entrega em até '+$prazo+' dias úteis</p><span>R$'+json[i].valor[0]+'</span></label></div>');
+						$('#fl-third-done .fl-final-block-info').append('<div class="fl-checkout-frete-forma"><input type="hidden" name="forma_pedido_valorfrete" value="'+ json[i].valor[0].replace(',','.') +'"><input type="hidden" name="forma_pedido_tempo_frete" value="'+$prazo+'"><input id="forma'+i+'" type="radio" value="'+json[i].codigo[0]+'" name="fl-frete-modo"> <label for="forma'+i+'">'+json[i].titulo+'<p>Entrega em até '+$prazo+' dias úteis</p><span>R$'+json[i].valor[0]+'</span></label></div>');
 					});
+					if ( json.length == 1 ){
+						$('[name="fl-frete-modo"]').attr('checked', true).trigger('change');
+					}
 					$('#fl-third-done .fl-final-block-info').fadeIn();
 				},
 				error : function(e) {
@@ -283,14 +301,41 @@ jQuery(function($){
 
 	    	var $novofrete = $subtotal + $frete;
 
-	    	$('#fl-checkout-resume-info-frete').find('p').last().html('R$' + $frete.toString().replace('.',','));
+	    	var $valor = new Intl.NumberFormat('pt-BR', {
+				style: 'currency',
+				currency: 'BRL',
+				minimumFractionDigits: 2
+			});
+
+			var $vN = $valor.format($novofrete);
+			var $vF = $valor.format($frete);
+
+	    	$('#fl-checkout-resume-info-frete').find('p').last().html($vF);
 	    	$('#fl-checkout-resume-info-frete').show();
-	    	$('.fl-checkout-resume-info-block.total').find('p').last().html('R$ ' + $novofrete.toString().replace('.',','));
+	    	$('.fl-checkout-resume-info-block.total').find('p').last().html($vN);
 
 	    	$('[name="pedido_valorfrete"]').val($frete);
 	    	$('[name="pedido_codfrete"]').val($codigo);
 	    	$('[name="pedido_tempo_frete"]').val($prazo);
+	    	$('[name="produto_valor"]').val($novofrete);
+
+	    	var $options = '<option>Parcelas</option>', i;
+	    	for (i = 1; i < 11; i++){
+	    		var $calc = $novofrete / i;
+	    		var $vC = $valor.format($calc);
+
+	    		$options += '<option value='+i+'>'+i+'x de '+$vC+'</option>';
+	    	}
+
+	    	$('[name="installments"]').empty().append($options);
+
 	    });
+
+	    $(document).on('change', '[name="installments"]', function(){
+	    	var $installment = $(this).val();
+	    	console.log($installment);
+	    	$('[name="prod_installments"]').val($installment);
+	    })
 
 	    $('[name="fl-metodo"]').on('change', function(){
 	    	var $tipo = $(this).val();
@@ -345,5 +390,20 @@ jQuery(function($){
 	    	console.log($length);
 	    	$('#fl-char-count').html($length);
 	    });
+
+	    // Toggle dúvidas
+	    $('.fl-duvida-header a').on('click', function(){
+	    	$('.fl-duvida-header a').removeClass('active');
+
+	    	var $ativo = $(this).closest('.fl-duvida-block').find('.fl-duvida-text').css('display');
+	    	if ( $ativo == 'block' ){
+	    		$(this).closest('.fl-duvida-block').find('.fl-duvida-text').slideUp();
+	    	} else {
+	    		$(this).addClass('active');
+	    		$('.fl-duvida-text').slideUp();
+	    		$(this).closest('.fl-duvida-block').find('.fl-duvida-text').slideDown();
+	    	}
+	    })
+
 	});
 })
