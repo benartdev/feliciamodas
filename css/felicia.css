@@ -1413,9 +1413,14 @@ main.fl-home-main{
 #fl-prod-image-list .fl-prod-img-list-block{
 	width: 25%;
 	float: left;
+	height: 136px;
+	position: relative;
 }
 #fl-prod-image-list .fl-prod-img-list-block .fl-prod-img-list-item{
 	padding: 5px;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
 }
 #fl-prod-title{
 	font-family: "Voga";
@@ -1568,6 +1573,10 @@ main.fl-home-main{
 		float: none;
 		width: 100%;
 		margin-bottom: 10px;
+		height: auto;
+	}
+	#fl-prod-image-list .fl-prod-img-list-block .fl-prod-img-list-item{
+		position: initial;
 	}
 	.fl-prod-principal img{
 		width: 100%;
@@ -1589,7 +1598,7 @@ main.fl-home-main{
 	}
 	#fl-prod-tags{
 		position: absolute;
-    	bottom: 0;
+    	bottom: -30px;
     	margin-left: 40%;
     }
     #fl-prod-related, #fl-prod-recents{
@@ -1632,6 +1641,12 @@ main.fl-home-main{
     	transform: translateY(-50%);
     	left: 30%;
     }
+    #fl-prod-image-list .fl-prod-img-list-block .fl-prod-img-list-item{
+		padding: 5px;
+		position: relative;
+		top: 0;
+		transform: none;
+	}
 }
 
 
@@ -1868,7 +1883,7 @@ main.fl-home-main{
 .fl-checkout-frete-forma label span{
 	position: absolute;
 	bottom: 0;
-	line-height: 57px;
+	line-height: 100px;
 	right: 10px;
 }
 .fl-checkout-frete-forma input[type="radio"]:checked + label{
@@ -1989,6 +2004,12 @@ main.fl-home-main{
 	}
 	#fl-checkout-title a:hover, #fl-checkout-title a:focus, #fl-checkout-title a:active{
 		background-color: #d76c5e;	
+	}
+	.fl-checkout-frete-forma label span{
+		position: absolute;
+		bottom: 0;
+		line-height: 57px;
+		right: 10px;
 	}
 }
 
@@ -2500,6 +2521,34 @@ textarea.form-control{
 .fl-post-blog-continue{
 	margin-top: 20px;
 }
+.fl-blog-anchor{
+	display: block;
+	margin: 10px auto;
+	text-decoration: uppercase;
+	color: #ffff33;
+	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	padding: 10px 20px;
+	font-family: "FV_Almelo";
+	border: 0;
+	outline: 0;
+	border-bottom: 3px solid #4d1101;
+	font-size: 18px;
+	text-align: center;
+	background: rgba(253,127,111,1);
+	background: -moz-linear-gradient(top, rgba(253,127,111,1) 0%, rgba(241,111,92,1) 50%, rgba(215,108,94,1) 51%, rgba(215,108,94,1) 71%, rgba(215,108,94,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(253,127,111,1)), color-stop(50%, rgba(241,111,92,1)), color-stop(51%, rgba(215,108,94,1)), color-stop(71%, rgba(215,108,94,1)), color-stop(100%, rgba(215,108,94,1)));
+	background: -webkit-linear-gradient(top, rgba(253,127,111,1) 0%, rgba(241,111,92,1) 50%, rgba(215,108,94,1) 51%, rgba(215,108,94,1) 71%, rgba(215,108,94,1) 100%);
+	background: -o-linear-gradient(top, rgba(253,127,111,1) 0%, rgba(241,111,92,1) 50%, rgba(215,108,94,1) 51%, rgba(215,108,94,1) 71%, rgba(215,108,94,1) 100%);
+	background: -ms-linear-gradient(top, rgba(253,127,111,1) 0%, rgba(241,111,92,1) 50%, rgba(215,108,94,1) 51%, rgba(215,108,94,1) 71%, rgba(215,108,94,1) 100%);
+	background: linear-gradient(to bottom, rgba(253,127,111,1) 0%, rgba(241,111,92,1) 50%, rgba(215,108,94,1) 51%, rgba(215,108,94,1) 71%, rgba(215,108,94,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fd7f6f', endColorstr='#d76c5e', GradientType=0 );
+}
+.fl-blog-anchor:hover, .fl-blog-anchor:focus, .fl-blog-anchor:active{
+	color: #ffff33;
+	opacity: .8;
+}
 
 @media(min-width: 992px){
 	.fl-header-blog{
@@ -2553,6 +2602,10 @@ textarea.form-control{
 	}
 	.fl-sidebar-inner{
 		margin-bottom: 60px;
+	}
+	.fl-blog-anchor{
+		display: inline-block;
+		margin: 10px;
 	}
 }
 

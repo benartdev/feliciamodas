@@ -276,7 +276,7 @@ jQuery(function($){
 					var $fab = parseInt($('[name="fab"]').val());
 					$.each(json, function(i,v){
 						var $prazo = $fab + parseInt(json[i].prazo[0]);
-						$('#fl-third-done .fl-final-block-info').append('<div class="fl-checkout-frete-forma"><input type="hidden" name="forma_pedido_valorfrete" value="'+ json[i].valor[0].replace(',','.') +'"><input type="hidden" name="forma_pedido_tempo_frete" value="'+$prazo+'"><input id="forma'+i+'" type="radio" value="'+json[i].codigo[0]+'" name="fl-frete-modo"> <label for="forma'+i+'">'+json[i].titulo+'<p>Entrega em até '+$prazo+' dias úteis</p><span>R$'+json[i].valor[0]+'</span></label></div>');
+						$('#fl-third-done .fl-final-block-info').append('<div class="fl-checkout-frete-forma"><input type="hidden" name="forma_pedido_valorfrete" value="'+ json[i].valor[0].replace(',','.') +'"><input type="hidden" name="forma_pedido_tempo_frete" value="'+$prazo+'"><input id="forma'+i+'" type="radio" value="'+json[i].codigo[0]+'" name="fl-frete-modo"> <label for="forma'+i+'">'+json[i].titulo+'<p>Entrega em até '+json[i].prazo[0]+' dias úteis + '+$fab+' dias úteis de fabricação</p><span>R$'+json[i].valor[0]+'</span></label></div>');
 					});
 					if ( json.length == 1 ){
 						$('[name="fl-frete-modo"]').attr('checked', true).trigger('change');
@@ -333,8 +333,10 @@ jQuery(function($){
 
 	    $(document).on('change', '[name="installments"]', function(){
 	    	var $installment = $(this).val();
+	    	var $inst = $installment.split('-');
 	    	console.log($installment);
-	    	$('[name="prod_installments"]').val($installment);
+	    	$('[name="prod_installments"]').val($inst[0]);
+	    	$('[name="prod_installments_val"]').val($inst[1]);
 	    })
 
 	    $('[name="fl-metodo"]').on('change', function(){
