@@ -176,12 +176,12 @@ body.onprogress:after {
 	border-radius: 15px;
 	-webkit-border-radius: 15px;
 	-moz-border-radius: 15px;
-	padding: 10px 20px;
+	padding: 5px 15px;
 	font-family: "FV_Almelo";
 	border: 0;
 	outline: 0;
 	border-bottom: 3px solid #4d1101;
-	font-size: 18px;
+	font-size: 22px;
 	text-align: center;
 	background: rgba(253,127,111,1);
 	background: -moz-linear-gradient(top, rgba(253,127,111,1) 0%, rgba(241,111,92,1) 50%, rgba(215,108,94,1) 51%, rgba(215,108,94,1) 71%, rgba(215,108,94,1) 100%);
@@ -317,6 +317,9 @@ hr{
 	width: 100%;
 	background: #fff;
 }
+#fl-md-search .fl-search-cntr{
+	display: block;
+}
 .fl-search-cntr input{
 	float: left;
 	width: calc(100% - 20px);
@@ -325,6 +328,7 @@ hr{
 }
 .fl-search-cntr input::placeholder{
 	font-family: RoughNotesSample;
+	color: #363636;
 }
 .fl-search-cntr button{
 	padding: 0;
@@ -435,7 +439,7 @@ hr{
 		display: inline-block;
 		font-size: 22px;
 		position: relative;
-		top: -10px;
+		/*top: -10px;*/
 		font-family: "Gabriola";
 		position: relative;
 	}
@@ -491,6 +495,7 @@ footer:before{
 }
 #fl-foot-menu li a, #fl-foot-duvidas li a{
 	color: #363636;
+	vertical-align: top;
 }
 #fl-foot-menu li a:hover, #fl-foot-menu li a:focus, #fl-foot-duvidas li a:focus, #fl-foot-duvidas li a:hover{
 	text-decoration: underline;
@@ -543,8 +548,14 @@ footer:before{
 	background: #fff;
 	color: #363636;
 }
+.fl-input-cntr input{
+	position: relative;
+	top: 1.5px;
+}
 .fl-input-cntr span{
 	margin-right: 20px;
+	position: relative;
+	top: 3px;
 }
 .fl-input-cntr input::placeholder, .fl-input-cntr select{
 	font-family: RoughNotesSample;
@@ -626,7 +637,10 @@ footer:before{
 	text-align: center
 }
 @media(min-width: 768px){
-
+	#fl-foot-duvidas{
+		word-break: break-word;
+		max-width: 34%;
+	}
 }
 @media(min-width: 992px){
 	footer{
@@ -675,7 +689,7 @@ footer:before{
 	}
 	#fl-foot-social{
 		position: absolute;
-		bottom: 20%;
+		bottom: 18%;
 	}
 	.fl-footer-flags ul li{
 		margin: 0 5px 10px;
@@ -882,7 +896,7 @@ main.fl-home-main{
 	font-family: "Sacramento-Regular";
 	font-size: 26px;
 	text-decoration: underline;
-	text-decoration-style: dotted;
+	text-decoration-style: solid;
 	text-decoration-color: #70b1d3;
 }
 .fl-avai-author{
@@ -1246,6 +1260,7 @@ main.fl-home-main{
 	color: #100979;
 	font-size: 24px;
 	margin-bottom: 5px;
+	margin-top: 5px;
 }
 .fl-prod-list-info a .fl-price-full, .fl-prod-list-info a .fl-price-desc{
 	color: #4e11a0;
@@ -1282,6 +1297,9 @@ main.fl-home-main{
 	border: 1px solid #fd7f6f;
 	padding: 2px 0px 2px 5px;
 	position: relative;
+}
+#fl-s{
+	font-family: "Perpetua";
 }
 .fl-filter-container:after{
 	content: "\f0dd";
@@ -1681,7 +1699,7 @@ main.fl-home-main{
 #fl-cart-products{
 	padding-right: 18px;
 	padding-top: 20px;
-	height: 100%;
+	height: calc(80% - 30px);
 }
 #fl-cart-subtotal > h3{
 	font-family: "Gabriola";
@@ -1739,10 +1757,13 @@ main.fl-home-main{
 .fl-cart-prod-info > h4{
 	font-size: 22px;
 }
-.fl-cart-prod-info a{
+.fl-cart-prod-info a[data-valor]{
 	position: absolute;
 	bottom: 0;
 	font-size: 14px;
+}
+.fl-cart-prod-info h3 a{
+	color: #363636;
 }
 #cart-close{
 	position: absolute;
@@ -2273,6 +2294,7 @@ main.fl-home-main{
 }
 .fl-avaliacao-sugestao textarea{
 	height: 140px;
+	font-size: 18px;
 }
 .fl-avaliacao-sugestao{
 	display: none;
@@ -2282,6 +2304,7 @@ main.fl-home-main{
 }
 textarea.form-control{
 	height: 120px;
+	font-size: 18px;
 }
 
 
@@ -2341,20 +2364,30 @@ textarea.form-control{
 }
 .fl-header-blog h1 span{
 	font-family: "Voga";
-	font-size: 30px;
+	font-size: 23px;
 	color: #000;
 	position: absolute;
 	bottom: 0;
-	right: -5px;
+	right: -1px;
+}
+#fl-top-blog-redirect{
+	height: 48px;
 }
 #fl-top-blog-redirect a{
 	display: inline-block;
 	font-family: "Gabriola";
 	font-size: 24px;
-	padding: 2px 5px;
-	border: 3px dashed #ffff33;
+	padding: 8px 4px;
 	color: #000001;
 	margin-bottom: 10px;
+	background: url('../img/pontilhado_amarelo.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width: 120px;
+	text-align: center;
+	text-shadow: 2px 2px 10px #ffffff;
+	-webkit-text-shadow: 2px 2px 10px #ffffff;
+	-moz-text-shadow: 2px 2px 10px #ffffff;
 }
 #footer-blog{
 	background: none;
@@ -2372,12 +2405,13 @@ textarea.form-control{
 .fl-post-block{
 	padding-bottom: 30px;
 	margin-bottom: 15px;
-	border-bottom: 1px dashed #4e11a0;
+	border-bottom: 5px dotted #4e11a0;
 }
 .fl-post-block-header h2{
 	font-family: "Voga";
 	color: #000;
 	font-size: 40px;
+	text-transform: uppercase;
 }
 .fl-post-block-header h3{
 	font-family: "Voga";
@@ -2396,6 +2430,9 @@ textarea.form-control{
 .fl-post-blog-thumbnail{
 	overflow: hidden;
 }
+.fl-post-blog-thumbnail a{
+	display: block;
+}
 .fl-post-blog-thumbnail img{
 	width: 100%;
 	margin-bottom: 10px;
@@ -2413,7 +2450,7 @@ textarea.form-control{
 	padding: 10px;
 }
 .fl-sidebar-inner{
-	border: 1px dashed #4e11a0;
+	border: 2px dotted #100979;
 	padding: 10px;
 	margin-bottom: 20px;
 	text-align: center;
@@ -2444,6 +2481,7 @@ textarea.form-control{
 	-moz-border-radius: 7px;
 	background-color: #e6e6e6;
 	padding: 3px 5px;
+	font-family: "Gabriola";
 }
 #fl-blog-news-inner form button{
 	background-color: #ffff33;
@@ -2486,6 +2524,16 @@ textarea.form-control{
 .fl-post-blog-text{
 	font-size: 24px;
 	font-family: "Perpetua"
+}
+.fl-post-blog-text p{
+	text-align: justify;
+}
+.fl-post-blog-text p img{
+	display: block;
+	margin: 0 auto;
+}
+.fl-post-blog-text p iframe{
+	width: 100% !important;
 }
 #fl-post-back{
 	padding: 10px 0 40px;
@@ -2578,15 +2626,17 @@ textarea.form-control{
 		right: calc(-10px + 107px);
 	}
 	.fl-menu-blog #fl-top-blog-redirect{
-		right: calc(-10px + 117px + 240px);
+		right: calc(-10px + 105px + 250px);
 	}
 	.fl-header-blog h1 span{
 		bottom: -20px;
-		right: 25px;
+		right: 30px;
+		font-size: 30px;
 	}
 	.fl-post-blog-thumbnail img{
-		max-height: 420px;
-		width: auto;
+		/*max-height: 420px;
+		width: auto;*/
+		width: 100%;
 		margin-bottom: 20px;
 	}
 	#fl-blog-news-inner form .fl-input-cntr{
@@ -2596,9 +2646,12 @@ textarea.form-control{
 		margin-bottom: 5px;
 	}
 	#fl-blog-news-inner form button{
-		width: 80px;
-		line-height: 70px;
+		width: 60px;
+		line-height: 50px;
 		float: none;
+		font-size: 24px;
+		position: relative;
+		top: 10px;
 	}
 	.fl-sidebar-inner{
 		margin-bottom: 60px;
@@ -2606,6 +2659,9 @@ textarea.form-control{
 	.fl-blog-anchor{
 		display: inline-block;
 		margin: 10px;
+	}
+	#fl-sidebar-container-post{
+		padding-left: 25%;
 	}
 }
 
@@ -2713,4 +2769,8 @@ textarea.form-control{
 		margin-right: 20px;
 		margin-bottom: 20px;
 	}
+}
+.dropdown-menu.note-check.dropdown-fontname{
+	max-height: 185px;
+	overflow-y: auto; 
 }

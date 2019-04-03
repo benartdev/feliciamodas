@@ -8604,3 +8604,7 @@ body.onprogress:after {
   padding: 10px;
   border: 1px solid #ccc;
 }
+.dropdown-menu.note-check.dropdown-fontname{
+  max-height: 185px;
+  overflow-y: auto; 
+}

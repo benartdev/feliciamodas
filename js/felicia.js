@@ -142,13 +142,17 @@ jQuery(function($){
 	    });
 
 	    // Scroll cart
-	    $('#fl-cart-products').slimScroll({
-	    	height: '75%',
-	    	railOpacity: 0.8
+	    $('#fl-cart-products .slim').slimScroll({
+	    	height: '100%',
+	    	railVisible: true,
+	    	alwaysVisible: true,
+	    	railOpacity: 0.3,
+	    	color: '#d76c5e',
+	    	railColor: '#fd7f6f',
 	    });
 
 	    // Apagar item do carrinho
-	    $(document).on('click', '.fl-cart-prod-info a', function(e){
+	    $(document).on('click', '.fl-cart-prod-info a[data-valor]', function(e){
 	    	e.preventDefault();
 
 	    	var action = $(this).attr('href');
